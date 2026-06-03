@@ -1,0 +1,6 @@
+{
+  "name": "Hora, Fecha y Bloc de Notas",
+  "description": "Una aplicación web interactiva que proporciona la hora actual con milisegundos, zona horaria, información astronómica detallada, calendario interactivo y un bloc de notas dinámico para tomar notas sobre la marcha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
